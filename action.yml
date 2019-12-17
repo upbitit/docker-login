@@ -1,5 +1,5 @@
 name: 'Docker Login'
-description: 'Log in to a container registry'
+description: 'Log in to a container registry. For more actions refer: https://github.com/Azure/Actions'
 inputs: 
   username:
     description: 'Container registry username'
